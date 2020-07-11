@@ -1,0 +1,29 @@
+.HomePageHeader{
+    background-color:wheat;
+    color:black;
+    width: 100%;
+    height: 50px;
+}
+.rightDiv ul li{
+    float:left;
+    list-style:none;
+    
+}
+.rightDiv{
+    width:500px;
+    height:50px;
+    position:absolute;
+    left:800px;
+    top:10px;
+  
+}
+.rightDiv ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+.HomePageHeader .img1{
+    width:50px;
+    height:50px;
+    background-image: url("../../assets/TheOnlineTutor.png");
+    background-size: 100% 100%;
+}
