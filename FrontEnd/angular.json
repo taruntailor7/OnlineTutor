@@ -123,6 +123,9 @@
   },
   "defaultProject": "FrontEnd",
   "cli": {
+
     "analytics": "fad64e61-7b3b-4c85-b142-134686f21980"
+
+     
   }
 }
